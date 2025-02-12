@@ -40,3 +40,5 @@ if (isTeachersEmpty === 0) {
 } else {
   console.log("the Array is not empty!");
 }
+
+//COMPLETE//
