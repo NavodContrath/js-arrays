@@ -36,6 +36,6 @@ console.log(lewisIndex);
 let isTeachersEmpty = !teachers.length
 console.log(isTeachersEmpty);
 if (teachers.length !== 0) {
-  console.log("the array not empty");
+  console.log("the array is not empty");
 }
 //COMPLETE//
